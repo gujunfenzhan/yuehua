@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sentence",
+  "name": "判决",
+  "description": "拔刀剑附属",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GoldMain"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
